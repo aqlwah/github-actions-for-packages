@@ -1,6 +1,6 @@
 {
   "name": "actions-template",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Learn how to use GitHub Actions!",
   "main": "index.js",
   "directories": {
